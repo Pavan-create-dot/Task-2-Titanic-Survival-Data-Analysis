@@ -1,4 +1,4 @@
-🛳️ Titanic Survival Data Analysis: Factors Influencing Survival
+[train.csv](https://github.com/user-attachments/files/18311007/train.csv)🛳️ Titanic Survival Data Analysis: Factors Influencing Survival
 ⚠️ Disclaimer:
 This dataset is NOT real data from the Titanic ship. It is a simulated dataset created for the purpose of data analysis and visualization practice. The project explores how factors such as age, family size, gender, and embarkation point influenced the likelihood of survival during the Titanic disaster. This data should not be considered authentic or representative of real Titanic passengers.
 
@@ -57,12 +57,10 @@ Matplotlib and Seaborn 🎨 for visualizations.
 Numpy 🔢 for numerical operations.
 📁 Dataset
 The dataset (Dataset.csv) is simulated to represent Titanic passenger data. It includes variables like age, gender, fare, family size, embarkation point, and survival status.
-[Uploading train.csv…]()
-
+link : https://1drv.ms/x/c/f6bc90f75ca4b431/ERObFs-fyLNDqImvsFcaJkoBzihPx_iflqyeljRB7WdIJA?e=AnES5T
 🎥 Watch the Project in Action
 Explore the analysis through the interactive notebook:
-[Uploading datascience_task2.ipynb…]()
-
+https://1drv.ms/v/c/f6bc90f75ca4b431/EZP_VUyBdx9JndEwPtN-n9IB-SilnUGpVqiQp83o50ru6A?e=ptWQfG
 🚀 Conclusion
 This project provides insights into simulated Titanic survival factors, demonstrating the use of data storytelling to analyze historical scenarios. By visualizing key variables, the analysis highlights patterns and relationships that could have influenced survival during the Titanic disaster.
 
