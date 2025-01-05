@@ -69,7 +69,7 @@ https://1drv.ms/v/c/f6bc90f75ca4b431/EZP_VUyBdx9JndEwPtN-n9IB-SilnUGpVqiQp83o50r
 This project provides insights into simulated Titanic survival factors, demonstrating the use of data storytelling to analyze historical scenarios. By visualizing key variables, the analysis highlights patterns and relationships that could have influenced survival during the Titanic disaster.
 
 💬 Contribute & Feedback
-Feel free to ask questions, suggest improvements, or contribute to the project. Contributions are always welcome!![cdf0a5aa-49d7-497e-88ef-8049dff13611](https://github.com/user-attachments/assets/b5ff6ff8-895e-46dc-8e23-dd175bdcddff)
+Feel free to ask questions, suggest improvements, or contribute to the project. Contributions are always welcome!
 
 ![image](https://github.com/user-attachments/assets/826b2fc0-8b1d-4759-bc15-d0339d86118c)
 ![image](https://github.com/user-attachments/assets/3ab27737-6323-45bc-9917-c19af8b26746)
