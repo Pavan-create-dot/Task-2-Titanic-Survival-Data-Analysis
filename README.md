@@ -15,6 +15,7 @@ Fare: Was there a relationship between fare amount and survival?
 Gender: Did women and children have higher survival rates?
 Correlations: What relationships existed between different variables?
 Missing Data: Where are the gaps in the dataset, and how do they impact analysis?
+
 🔍 What’s Inside?
 The repository includes a Jupyter Notebook containing step-by-step Titanic data analysis and the following visualizations:
 
@@ -42,6 +43,7 @@ Visualizes the relationships between variables like age, family size, fare, and 
 Missing Values Heatmap
 
 Highlights the locations of missing data to guide preprocessing efforts.
+
 🌟 Key Insights from the Visualizations
 Missing Data: Understanding missing values is crucial for effective preprocessing.
 Age: Children showed higher survival rates due to prioritization.
@@ -51,14 +53,17 @@ Embarkation Point: Cherbourg passengers had slightly higher survival rates.
 Fare: Higher fares were associated with better survival odds, indicating class advantages.
 Gender: Women had significantly higher survival rates than men, aligning with historical accounts.
 Correlations: Relationships between variables such as fare, age, and survival provide actionable insights.
+
 🧩 Technologies Used
 Jupyter Notebook 📓 for interactive analysis.
 Python 🐍 for data processing and analysis.
 Pandas 🐼 for data manipulation.
 Matplotlib and Seaborn 🎨 for visualizations.
 Numpy 🔢 for numerical operations.
+
 📁 Dataset
 The dataset (Dataset.csv) is simulated to represent Titanic passenger data. It includes variables like age, gender, fare, family size, embarkation point, and survival status.
+
 link : https://1drv.ms/x/c/f6bc90f75ca4b431/ERObFs-fyLNDqImvsFcaJkoBzihPx_iflqyeljRB7WdIJA?e=AnES5T
 
 🎥 Watch the Project in Action
