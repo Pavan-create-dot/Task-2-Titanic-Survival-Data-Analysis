@@ -60,12 +60,24 @@ Numpy 🔢 for numerical operations.
 📁 Dataset
 The dataset (Dataset.csv) is simulated to represent Titanic passenger data. It includes variables like age, gender, fare, family size, embarkation point, and survival status.
 link : https://1drv.ms/x/c/f6bc90f75ca4b431/ERObFs-fyLNDqImvsFcaJkoBzihPx_iflqyeljRB7WdIJA?e=AnES5T
+
 🎥 Watch the Project in Action
 Explore the analysis through the interactive notebook:
 https://1drv.ms/v/c/f6bc90f75ca4b431/EZP_VUyBdx9JndEwPtN-n9IB-SilnUGpVqiQp83o50ru6A?e=ptWQfG
+
 🚀 Conclusion
 This project provides insights into simulated Titanic survival factors, demonstrating the use of data storytelling to analyze historical scenarios. By visualizing key variables, the analysis highlights patterns and relationships that could have influenced survival during the Titanic disaster.
 
 💬 Contribute & Feedback
-Feel free to ask questions, suggest improvements, or contribute to the project. Contributions are always welcome!
+Feel free to ask questions, suggest improvements, or contribute to the project. Contributions are always welcome!![cdf0a5aa-49d7-497e-88ef-8049dff13611](https://github.com/user-attachments/assets/b5ff6ff8-895e-46dc-8e23-dd175bdcddff)
+
+![image](https://github.com/user-attachments/assets/826b2fc0-8b1d-4759-bc15-d0339d86118c)
+![image](https://github.com/user-attachments/assets/3ab27737-6323-45bc-9917-c19af8b26746)
+![image](https://github.com/user-attachments/assets/0ee7b7f5-dbe0-4fa9-bb90-4549459c11d7)
+![image](https://github.com/user-attachments/assets/7ef5c818-014f-48f4-8d57-91fe923db335)
+![image](https://github.com/user-attachments/assets/c76fbe0e-8628-4036-961c-04373b388144)
+![image](https://github.com/user-attachments/assets/7791ba95-6a42-4912-94b9-2deb58814820)
+![image](https://github.com/user-attachments/assets/e8357973-0335-46df-9683-038eb8f187c5)
+![image](https://github.com/user-attachments/assets/6a4b1239-ba2a-47b7-b4cf-b5349a1bc80e)
+
     
