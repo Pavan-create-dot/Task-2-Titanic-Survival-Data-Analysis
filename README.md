@@ -1,4 +1,6 @@
-[train.csv](https://github.com/user-attachments/files/18311007/train.csv)🛳️ Titanic Survival Data Analysis: Factors Influencing Survival
+🛳️ Titanic Survival Data Analysis: Factors Influencing Survival
+
+
 ⚠️ Disclaimer:
 This dataset is NOT real data from the Titanic ship. It is a simulated dataset created for the purpose of data analysis and visualization practice. The project explores how factors such as age, family size, gender, and embarkation point influenced the likelihood of survival during the Titanic disaster. This data should not be considered authentic or representative of real Titanic passengers.
 
